@@ -7,4 +7,3 @@ def batch_badge_creator
   attendies.each {|name| puts "Hello, my name is #{name}."}
   return attendies
 end
-end
